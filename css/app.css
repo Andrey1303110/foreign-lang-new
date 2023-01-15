@@ -373,7 +373,7 @@ body.view-home {
     background-color: #f8f9fa;
 }
 a {
-    color: #ffb600;
+    color: #6068d6;
 }
 a:hover {
     color: #e6a400;
@@ -481,8 +481,8 @@ a[savefrom_lm] + span {
     color: #fff;
     -webkit-animation-delay: 0.8s;
     animation-delay: 0.8s;
-    border: 2px solid #e6a400;
-    background: #e6a400;
+    border: 2px solid #6068d6;
+    background: #6068d6;
 }
 .btn-get-started:hover {
     background: transparent;
@@ -1214,7 +1214,7 @@ body.view-video--detail .view__title {
     color: #ffb600;
 }
 #topbar .contact-info i {
-    color: #ffb600;
+    color: #6068d6;
     padding: 4px;
 }
 #topbar .social-links a {
@@ -1253,6 +1253,7 @@ body.view-home .page-title {
 .page-title {
     background: #495057 url(../images/header-bg.png) no-repeat;
     background-position: 50%;
+    background-size: cover;
     text-align: center;
     padding: 30px 15px;
     -webkit-box-shadow: inset rgba(0, 0, 0, 0.68) 0 0 20px 4px;
@@ -2307,7 +2308,7 @@ p > iframe {
 .nav-menu .active > a,
 .nav-menu a:hover,
 .nav-menu li:hover > a {
-    color: #ffb600;
+    color: #6068d6;
     text-decoration: none;
 }
 .nav-menu .drop-down ul {
@@ -2503,7 +2504,7 @@ section {
     display: block;
     width: 50px;
     height: 3px;
-    background: #ffb600;
+    background: #6068d6;
     bottom: 0;
     left: calc(50% - 25px);
 }
@@ -2744,7 +2745,7 @@ section {
     background: #fff;
 }
 .services .icon-box:hover .icon i {
-    color: #ffb600;
+    color: #e24848;
 }
 .services .icon-box:hover .icon:before {
     background: #ef9383;
@@ -2754,7 +2755,7 @@ section {
     color: #fff;
 }
 .services {
-    border-top: 4px solid #ffb600;
+    border-top: 4px solid #6068d6;
 }
 .services .section-title {
     margin-bottom: -15px;
